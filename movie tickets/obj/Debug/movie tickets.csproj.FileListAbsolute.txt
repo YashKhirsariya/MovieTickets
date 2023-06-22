@@ -1,0 +1,11 @@
+D:\Yash\movie tickets\movie tickets\bin\Debug\movie tickets.exe.config
+D:\Yash\movie tickets\movie tickets\bin\Debug\movie tickets.exe
+D:\Yash\movie tickets\movie tickets\bin\Debug\movie tickets.pdb
+D:\Yash\movie tickets\movie tickets\obj\Debug\movie tickets.csprojResolveAssemblyReference.cache
+D:\Yash\movie tickets\movie tickets\obj\Debug\movie_tickets.Form1.resources
+D:\Yash\movie tickets\movie tickets\obj\Debug\movie_tickets.Properties.Resources.resources
+D:\Yash\movie tickets\movie tickets\obj\Debug\movie tickets.csproj.GenerateResource.Cache
+D:\Yash\movie tickets\movie tickets\obj\Debug\movie tickets.exe
+D:\Yash\movie tickets\movie tickets\obj\Debug\movie tickets.pdb
+D:\Yash\movie tickets\movie tickets\obj\Debug\movie_tickets.Form2.resources
+D:\Yash\movie tickets\movie tickets\obj\Debug\movie_tickets.Form3.resources
